@@ -17,6 +17,7 @@
     <None Remove="Views\Shared\Components\" />
     <None Remove="Views\Shared\Components\BasketSummary\" />
     <None Remove="Views\Shared\Components\Categories\" />
+    <None Remove="Models\ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
@@ -35,6 +36,7 @@
     <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\BasketSummary\" />
     <Folder Include="Views\Shared\Components\Categories\" />
+    <Folder Include="Models\ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

@@ -1,34 +1,11 @@
 ﻿<Properties StartupConfiguration="{661076EE-5147-40FF-8CBB-E0D64DAD8A51}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission10 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission10/Views/Shared/Components/Categories/Default.cshtml">
-    <Files>
-      <File FileName="Mission10/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Purchase/Checkout.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Shared/Components/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Shared/BookSummary.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Shared/Components/BasketSummary/Default.cshtml" Line="1" Column="1" />
-      <File FileName="Mission10/Views/Shared/Components/Categories/Default.cshtml" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission10" expanded="True">
-            <Node name="Mission10" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Purchase" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="BasketSummary" expanded="True" />
-                    <Node name="Categories" expanded="True">
-                      <Node name="Default.cshtml" selected="True" />
-                    </Node>
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
+            <Node name="Mission10" expanded="True" />
           </Node>
         </State>
       </Pad>
