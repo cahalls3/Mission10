@@ -12,8 +12,29 @@ namespace Mission10.Views
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 4 "/Users/carsonhalls/Documents/GitHub/Mission10/Mission10/Views/_ViewImports.cshtml"
+using Mission10.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "/Users/carsonhalls/Documents/GitHub/Mission10/Mission10/Views/_ViewImports.cshtml"
+using Mission10.Models.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "/Users/carsonhalls/Documents/GitHub/Mission10/Mission10/Views/_ViewImports.cshtml"
+using Mission10.Infrastructure;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f400a24e4f1c1f8dbc87c0f761266a45e781e06b", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f854682512ec083f7b1f9d4f8e67b9abdceb7877", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3bc3af51e28e9a897ff2a48e99acbb0d85eb1d2d", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

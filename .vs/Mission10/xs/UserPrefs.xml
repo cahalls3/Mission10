@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{661076EE-5147-40FF-8CBB-E0D64DAD8A51}|Default">
-  <MonoDevelop.Ide.ItemProperties.Mission10 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission10/Program.cs">
-    <Files>
-      <File FileName="Mission10/Program.cs" Line="25" Column="6" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.Mission10 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission10" expanded="True">
             <Node name="Mission10" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Purchase" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="BasketSummary" expanded="True" />
+                    <Node name="Categories" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
