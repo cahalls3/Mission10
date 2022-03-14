@@ -34,7 +34,7 @@ using Mission10.Infrastructure;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ccb76d5e42e00e58d068544e5d07bd260657c17f", @"/Views/Purchase/Checkout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3bc3af51e28e9a897ff2a48e99acbb0d85eb1d2d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"31e0464354acdc0d8c2c8d7f0e1f3557f33feff1", @"/Views/_ViewImports.cshtml")]
     public class Views_Purchase_Checkout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Purchase>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("text-danger"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
