@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
 namespace Mission10.Models
 {
-    public class IPurchaseRepository
+    public interface IPurchaseRepository
     {
-        public IPurchaseRepository()
-        {
-        }
+        IQueryable<Purchase> Purchases { get; }
+
+        void SavePurchase(Purchase purchase);
     }
 }

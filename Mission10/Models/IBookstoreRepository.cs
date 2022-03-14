@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
 namespace Mission10.Models
 {
-    public class IBookstoreRepository
+    public interface IBookstoreRepository
     {
-        public IBookstoreRepository()
-        {
-        }
+        IQueryable<Book> Books { get; }
     }
 }

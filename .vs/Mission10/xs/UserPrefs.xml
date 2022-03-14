@@ -1,11 +1,16 @@
 ﻿<Properties StartupConfiguration="{661076EE-5147-40FF-8CBB-E0D64DAD8A51}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission10 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission10/Program.cs">
+    <Files>
+      <File FileName="Mission10/Program.cs" Line="25" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission10" expanded="True">
-            <Node name="Mission10" expanded="True" />
+            <Node name="Mission10" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

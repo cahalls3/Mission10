@@ -1,10 +1,17 @@
-﻿using System;
-namespace Mission10.Components
+﻿using Microsoft.AspNetCore.Mvc;
+using Mission10.Models;
+namespace SportsStore.Components
 {
-    public class BasketSummaryViewComponent
+    public class BasketSummaryViewComponent : ViewComponent
     {
-        public BasketSummaryViewComponent()
+        private Basket basket;
+        public BasketSummaryViewComponent(Basket basketService)
         {
+            basket = basketService;
+        }
+        public IViewComponentResult Invoke()
+        {
+            return View(basket);
         }
     }
 }
