@@ -22,6 +22,7 @@
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+    <None Remove="Pages\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
@@ -41,6 +42,7 @@
     <Folder Include="Views\Shared\Components\BasketSummary\" />
     <Folder Include="Views\Shared\Components\Categories\" />
     <Folder Include="Models\ViewModels\" />
+    <Folder Include="Pages\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
