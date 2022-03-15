@@ -6,11 +6,10 @@
         <State name="__root__">
           <Node name="Mission10" expanded="True">
             <Node name="Mission10" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Basket.cs" selected="True" />
               </Node>
+              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>

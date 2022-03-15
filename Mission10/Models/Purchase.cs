@@ -35,5 +35,8 @@ namespace Mission10.Models
         public string Country { get; set; }
 
         public bool Anonymous { get; set; }
+
+        [BindNever]
+        public bool OrderReceived { get; set; }
     }
 }
