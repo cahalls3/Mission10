@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{661076EE-5147-40FF-8CBB-E0D64DAD8A51}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission10 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission10/Pages/Admin/AdminLayout.razor">
-    <Files>
-      <File FileName="Mission10/Pages/Admin/AdminLayout.razor" Line="29" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission10" expanded="True">
             <Node name="Mission10" expanded="True">
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Admin" expanded="True">
-                  <Node name="AdminLayout.razor" selected="True" />
+                  <Node name="Index.cshtml" expanded="True" selected="True" />
                 </Node>
               </Node>
               <Node name="Views" expanded="True" />
