@@ -6,13 +6,9 @@
         <State name="__root__">
           <Node name="Mission10" expanded="True">
             <Node name="Mission10" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="Index.cshtml" expanded="True" selected="True" />
-                </Node>
+              <Node name="Models" expanded="True">
+                <Node name="EFPurchaseRepository.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
