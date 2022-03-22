@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{661076EE-5147-40FF-8CBB-E0D64DAD8A51}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission10 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission10/Components/CategoriesViewComponent.cs">
+    <Files>
+      <File FileName="Mission10/Components/CategoriesViewComponent.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission10" expanded="True">
             <Node name="Mission10" expanded="True">
-              <Node name="Views" expanded="True" />
+              <Node name="Components" expanded="True">
+                <Node name="CategoriesViewComponent.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

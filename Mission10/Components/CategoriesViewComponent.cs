@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Mission10.Models;
 
-namespace Mission8.Components
+namespace Mission10.Components
 {
     public class CategoriesViewComponent : ViewComponent
     {
